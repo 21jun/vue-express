@@ -1,3 +1,4 @@
+```
 git clone https://github.com/21jun/vue-express
 cd sample-app
 cd backend 
@@ -7,3 +8,4 @@ cd frontend
 npm install
 cd ..
 npm start
+```
